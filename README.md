@@ -1,4 +1,4 @@
-# Sredanović family tree
+# Sredanović Family Tree
 
 ```mermaid
 flowchart
